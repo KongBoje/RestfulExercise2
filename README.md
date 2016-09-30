@@ -1,0 +1,1 @@
+There were some issues with SQL so there is no digitalocean demo.
